@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+  <style>
+    .bg { fill: #0d1117; }
+    .title { fill: #58a6ff; font: 700 30px 'Segoe UI', Ubuntu, sans-serif; }
+    .text { fill: #e6edf3; font: 18px 'Consolas', 'Courier New', monospace; }
+    .muted { fill: #8b949e; font: 16px 'Consolas', 'Courier New', monospace; }
+    .key { fill: #58a6ff; font: 18px 'Consolas', 'Courier New', monospace; }
+    .line { stroke: #30363d; stroke-width: 1; }
+  </style>
+  <rect class="bg" width="900" height="520" rx="18"/>
+  <text class="title" x="48" y="62">Xurshid Muhammadiyev</text>
+  <text class="muted" x="49" y="92">@willlrock</text>
+  <line class="line" x1="48" y1="115" x2="852" y2="115"/>
+
+  <text class="key" x="48" y="158">role</text>
+  <text class="text" x="205" y="158">System Administrator / Network Engineer</text>
+
+  <text class="key" x="48" y="198">location</text>
+  <text class="text" x="205" y="198">Tashkent, Uzbekistan</text>
+
+  <text class="key" x="48" y="238">focus</text>
+  <text class="text" x="205" y="238">Networking, Linux, DevOps, automation</text>
+
+  <text class="key" x="48" y="278">stack</text>
+  <text class="text" x="205" y="278">MikroTik · Docker · Python · Git · Linux</text>
+
+  <text class="key" x="48" y="318">building</text>
+  <text class="text" x="205" y="318">Sigamiz — a roommate map for students</text>
+
+  <text class="key" x="48" y="358">learning</text>
+  <text class="text" x="205" y="358">DevOps, CI/CD, monitoring, German</text>
+
+  <line class="line" x1="48" y1="392" x2="852" y2="392"/>
+  <text class="muted" x="48" y="430">github.com/willlrock</text>
+  <text class="muted" x="48" y="465">Reliable systems. Clear networks. Useful software.</text>
+</svg>
