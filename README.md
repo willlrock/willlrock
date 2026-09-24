@@ -1,12 +1,12 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://raw.githubusercontent.com/willlrock/willlrock/main/dark_mobile.svg?v=2">
-    <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="https://raw.githubusercontent.com/willlrock/willlrock/main/light_mobile.svg?v=2">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/willlrock/willlrock/main/dark_mode.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/willlrock/willlrock/main/light_mode.svg?v=2">
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://raw.githubusercontent.com/willlrock/willlrock/main/dark_mobile.svg?v=ascii-20260925">
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/willlrock/willlrock/main/light_mobile.svg?v=ascii-20260925">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/willlrock/willlrock/main/dark_mode.svg?v=ascii-20260925">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/willlrock/willlrock/main/light_mode.svg?v=ascii-20260925">
     <img width="900"
-         src="https://raw.githubusercontent.com/willlrock/willlrock/main/light_mode.svg?v=2"
-         alt="Xurshid Muhammadiyev — System Administrator, Network Engineer, DevOps and automation">
+         src="https://raw.githubusercontent.com/willlrock/willlrock/main/light_mode.svg?v=ascii-20260925"
+         alt="ASCII portrait of Xurshid Muhammadiyev — System Administrator, Network Engineer, DevOps and automation">
   </picture>
 </div>
 
