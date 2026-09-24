@@ -1,11 +1,12 @@
 <div align="center">
+  <!-- Pin banners to their asset commit so GitHub's raw-file cache cannot serve an older design. -->
   <picture>
-    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://raw.githubusercontent.com/willlrock/willlrock/main/dark_mobile.svg?v=ascii-20260925">
-    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/willlrock/willlrock/main/light_mobile.svg?v=ascii-20260925">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/willlrock/willlrock/main/dark_mode.svg?v=ascii-20260925">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/willlrock/willlrock/main/light_mode.svg?v=ascii-20260925">
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://raw.githubusercontent.com/willlrock/willlrock/87d762947874949a267fd12452029813cda6d662/dark_mobile.svg">
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/willlrock/willlrock/87d762947874949a267fd12452029813cda6d662/light_mobile.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/willlrock/willlrock/87d762947874949a267fd12452029813cda6d662/dark_mode.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/willlrock/willlrock/87d762947874949a267fd12452029813cda6d662/light_mode.svg">
     <img width="900"
-         src="https://raw.githubusercontent.com/willlrock/willlrock/main/light_mode.svg?v=ascii-20260925"
+         src="https://raw.githubusercontent.com/willlrock/willlrock/87d762947874949a267fd12452029813cda6d662/light_mode.svg"
          alt="ASCII portrait of Xurshid Muhammadiyev — System Administrator, Network Engineer, DevOps and automation">
   </picture>
 </div>
